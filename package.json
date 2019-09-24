@@ -18,8 +18,8 @@
   },
   "homepage": "https://github.com/yoshi1125hisa/coding-template#readme",
   "devDependencies": {
-    "@babel/core": "7.6.0",
-    "@babel/preset-env": "7.6.0",
+    "@babel/core": "7.6.2",
+    "@babel/preset-env": "7.6.2",
     "browser-sync": "2.26.7",
     "gulp": "4.0.2",
     "gulp-babel": "8.0.0",
