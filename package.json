@@ -1,0 +1,39 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "commit": "node ./node_modules/cz-customizable/standalone.js",
+    "start": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoshi1125hisa/coding-template.git"
+  },
+  "author": "yoshi1125hisa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yoshi1125hisa/coding-template/issues"
+  },
+  "homepage": "https://github.com/yoshi1125hisa/coding-template#readme",
+  "devDependencies": {
+    "@babel/core": "7.6.0",
+    "@babel/preset-env": "7.6.0",
+    "browser-sync": "2.26.7",
+    "gulp": "4.0.2",
+    "gulp-babel": "8.0.0",
+    "gulp-changed": "^4.0.1",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-imagemin": "^6.1.0",
+    "gulp-postcss": "8.0.0",
+    "gulp-sass": "4.0.2",
+    "gulp-svgmin": "^2.2.0",
+    "imagemin-jpeg-recompress": "^6.0.0",
+    "imagemin-pngquant": "^8.0.0",
+    "postcss-cssnext": "3.1.0"
+  },
+  "dependencies": {
+    "gulp-htmlmin": "^5.0.1"
+  }
+}
